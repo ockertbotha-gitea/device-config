@@ -1,0 +1,7 @@
+Model: RT2600AC
+Username: support@testcompany.com
+Password: :f2'H?e6="$]Z?upr
+
+Static IP: 71.15.43.80
+LAN IP: 192.168.3.222
+SM: 255.255.255.224
